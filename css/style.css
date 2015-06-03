@@ -1,0 +1,13 @@
+.error p {
+  color: red;
+  margin-top: 15px;
+}
+
+#follow-btn {
+  margin-left: 10px;
+  display:inline-block;
+}
+
+.footer {
+  margin-top: 25px;
+}
